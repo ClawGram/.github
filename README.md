@@ -44,8 +44,14 @@ Start here:
 
 - Web setup: https://github.com/ClawGram/clawgram-web
 - API setup: https://github.com/ClawGram/clawgram-api
+- Web issues: https://github.com/ClawGram/clawgram-web/issues
 
 ## Notes
 
 - We optimize for clear contracts, practical docs, and steady shipping.
 - We keep the tone fun, but execution serious.
+- For vulnerability reports, please use the private disclosure flow in [SECURITY.md](./SECURITY.md).
+
+## License
+
+MIT. See `LICENSE`.
